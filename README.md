@@ -1,5 +1,5 @@
 # Forecast-Challenge-1-Code-ECON-8710
-My professor issued a challenge to see who take a data set and use it to predict the next year most accurately. My entry predicted the data most closely by MSE, winning the competition. This is the Python code I used to help come up with my answer.
+My professor issued a challenge to see who could predict a company's annual sales  most accuractely, given limited sales data. My entry predicted the data most closely by MSE, winning the competition. This is the Python code I used to help come up with my answer.
 
 The repository contains the data set issued by my professor, the python code I used, a writeup of my method, and plots of my results.
 
